@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "events": "Veranstaltungen",
+    "team": "Unser Team",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "IEL MATHE AG",
+    "subtitle": "Der Club, der Mathematik Spaß macht",
+    "description": "Ein 2022 am İstanbul Erkek Lisesi gegründeter Studentenclub, der Mathematik nicht nur als Fach, sondern als unterhaltsame und interaktive Erfahrung präsentiert.",
+    "joinUs": "Mach mit",
+    "learnMore": "Mehr erfahren"
+  },
+  "about": {
+    "title": "Über uns",
+    "vision": "Unsere Vision",
+    "visionText": "Mathematik nicht nur als Fach, sondern als unterhaltsame und interaktive Erfahrung zu präsentieren.",
+    "founded": "Gegründet: 2022 - İstanbul Erkek Lisesi",
+    "activities": "Unsere Aktivitäten"
+  },
+  "activities": {
+    "events": {
+      "title": "Veranstaltungen und Wettbewerbe",
+      "description": "Wir organisieren Veranstaltungen wie den Mathematik-Tag und verschiedene Wettbewerbe, um das Interesse der Schüler an der Mathematik zu steigern."
+    },
+    "conferences": {
+      "title": "Konferenzen und Workshops",
+      "description": "Wir organisieren verschiedene Konferenzen und interaktive Workshops auf Türkisch, Englisch und Deutsch mit der Teilnahme von Experten-Professoren in ihren Bereichen."
+    },
+    "articles": {
+      "title": "Artikel-Veröffentlichungen",
+      "description": "Wir bieten eine Plattform für Schüler, um ihre wissenschaftlichen Arbeiten zu teilen; wir bieten die Möglichkeit, Artikel auf Türkisch, Englisch und Deutsch zu veröffentlichen."
+    },
+    "social": {
+      "title": "Social Media und Community-Interaktion",
+      "description": "Wir sind aktiv auf Plattformen wie Instagram und LinkedIn und engagieren uns mit Mathematik-Enthusiasten."
+    },
+    "education": {
+      "title": "Bildung und Lehre",
+      "description": "Wir erstellen Bildungsinhalte und Lehrmaterialien im Bereich Mathematik. Wir bieten verschiedene Ressourcen und Materialien zur Verbesserung der mathematischen Fähigkeiten der Schüler."
+    },
+    "research": {
+      "title": "Forschungsprojekte",
+      "description": "Wir führen verschiedene Forschungsprojekte im Bereich Mathematik durch. Unsere Schüler haben die Möglichkeit, in ihren Interessensgebieten tiefgreifende Forschung zu betreiben."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025-2026 IEL MATHE AG. Alle Rechte vorbehalten.",
+    "followUs": "Folge uns",
+    "madeBy": "Diese Website wurde erstellt von",
+    "by": "mit",
+    "and": "und"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "email": "E-Mail",
+    "social": "Social Media",
+    "address": "Adresse",
+    "schoolName": "İstanbul Erkek Lisesi",
+    "followUs": "Folge uns",
+    "sponsorship": "Für Sponsoring",
+    "sponsorshipDescription": "Sie können unsere Präsidenten kontaktieren, um Informationen über Sponsoring zu erhalten.",
+    "contactFinancePresidents": "Kontaktieren Sie die Präsidenten"
+  },
+  "team": {
+    "title": "Unser Team",
+    "subtitle": "Lernen Sie das IEL MATHE AG Team kennen",
+    "period": "Periode",
+    "departments": {
+      "president": "Präsident",
+      "academyPresident": "Akademie-Präsident",
+      "financePresident": "Finanzpräsident",
+      "organizationPresident": "Organisationspräsident",
+      "prPresident": "PR-Präsident",
+      "itPresident": "IT-Präsident"
+    }
+  }
+}

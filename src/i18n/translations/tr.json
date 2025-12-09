@@ -1,0 +1,80 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "events": "Etkinlikler",
+    "team": "Ekibimiz",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "IEL MATHE AG",
+    "subtitle": "Matematiği Eğlenceli Hale Getiren Kulüp",
+    "description": "2022 yılında İstanbul Erkek Lisesi'nde kurulan ve matematiği sadece bir ders değil, keyifli ve etkileşimli bir deneyim olarak sunan öğrenci kulübü.",
+    "joinUs": "Bize Katıl",
+    "learnMore": "Daha Fazla Bilgi"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "vision": "Vizyonumuz",
+    "visionText": "Matematiği sadece bir ders değil, aynı zamanda keyifli ve etkileşimli bir deneyim olarak sunmak.",
+    "founded": "Kuruluş: 2022 - İstanbul Erkek Lisesi",
+    "activities": "Faaliyet Alanlarımız"
+  },
+  "activities": {
+    "events": {
+      "title": "Etkinlikler ve Yarışmalar",
+      "description": "Matematik Günü gibi etkinlikler ve çeşitli yarışmalar düzenleyerek öğrencilerin matematiğe olan ilgisini artırıyoruz."
+    },
+    "conferences": {
+      "title": "Konferanslar ve Atölye Çalışmaları",
+      "description": "Türkçe, İngilizce ve Almanca dillerinde, alanında uzman profesörlerin katılımıyla çeşitli konferanslar ve interaktif atölye çalışmaları organize ediyoruz."
+    },
+    "articles": {
+      "title": "Makale Yayınları",
+      "description": "Öğrencilerin bilimsel çalışmalarını paylaşabilmeleri için bir platform sunuyoruz; Türkçe, İngilizce ve Almanca dillerinde makale yayınlama imkanı sağlıyoruz."
+    },
+    "social": {
+      "title": "Sosyal Medya ve Topluluk Etkileşimi",
+      "description": "Instagram ve LinkedIn gibi platformlarda aktif olarak paylaşımlar yaparak, matematikseverlerle etkileşimde bulunuyoruz."
+    },
+    "education": {
+      "title": "Eğitim ve Öğretim",
+      "description": "Matematik alanında eğitici içerikler ve öğretim materyalleri hazırlıyoruz. Öğrencilerin matematik becerilerini geliştirmek için çeşitli kaynak ve materyal sunuyoruz."
+    },
+    "research": {
+      "title": "Araştırma Projeleri",
+      "description": "Matematik alanında çeşitli araştırma projelerine imza atıyoruz. Öğrencilerimiz kendi ilgi alanlarında derinlemesine araştırma yapma fırsatı buluyor."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025-2026 IEL MATHE AG. Tüm hakları saklıdır.",
+    "followUs": "Bizi Takip Edin",
+    "madeBy": "Bu site şu kişiler tarafından",
+    "by": "ile yapıldı:",
+    "and": "ve"
+  },
+  "contact": {
+    "title": "İletişim",
+    "email": "E-posta",
+    "social": "Sosyal Medya",
+    "address": "Adres",
+    "schoolName": "İstanbul Erkek Lisesi",
+    "followUs": "Bizi Takip Edin",
+    "sponsorship": "Sponsorluk İçin",
+    "sponsorshipDescription": "Sponsorluk hakkında bilgi almak için başkanlarımızla iletişime geçebilirsiniz.",
+    "contactFinancePresidents": "Başkanlara Ulaşın"
+  },
+  "team": {
+    "title": "Ekibimiz",
+    "subtitle": "IEL MATHE AG ekibini tanıyın",
+    "period": "Dönem",
+    "departments": {
+      "president": "Başkan",
+      "academyPresident": "Akademi Başkanı",
+      "financePresident": "Finans Başkanı",
+      "organizationPresident": "Organizasyon Başkanı",
+      "prPresident": "PR Başkanı",
+      "itPresident": "IT Başkanı"
+    }
+  }
+}
