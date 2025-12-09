@@ -15,7 +15,7 @@ import {
 import { useTranslation } from 'react-i18next';
 
 const About: React.FC = () => {
-  const { t } = useTranslation();
+  const { t } = useTranslation('translation');
 
   return (
     <Box sx={{ py: 4 }}>

@@ -21,7 +21,7 @@ interface TeamMember {
 }
 
 const Team: React.FC = () => {
-  const { t } = useTranslation();
+  const { t } = useTranslation('translation');
 
   const teamMembers: TeamMember[] = [
     {
