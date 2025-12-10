@@ -3,7 +3,7 @@ import { Box, Container, Typography, Link as MuiLink } from '@mui/material';
 import { useTranslation } from 'react-i18next';
 
 const Footer: React.FC = () => {
-  const { t } = useTranslation('translation');
+  const { t } = useTranslation();
 
   return (
     <Box

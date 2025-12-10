@@ -16,7 +16,7 @@ import { useTranslation } from 'react-i18next';
 import { useNavigate } from 'react-router-dom';
 
 const Contact: React.FC = () => {
-  const { t } = useTranslation('translation');
+  const { t } = useTranslation();
   const navigate = useNavigate();
 
   const socialMedia = [

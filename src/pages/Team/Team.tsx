@@ -21,7 +21,7 @@ interface TeamMember {
 }
 
 const Team: React.FC = () => {
-  const { t } = useTranslation('translation');
+  const { t } = useTranslation();
 
   const teamMembers: TeamMember[] = [
     {
@@ -42,7 +42,8 @@ const Team: React.FC = () => {
       name: 'Ayşe Melike Acar',
       departmentKey: 'president',
       period: '27',
-      email: '',
+      email: 'aysemelikeacar@gmail.com',
+      photo: '/melike.jpeg'
     },
     {
       name: 'Emir Kaan Özdemir',
@@ -74,7 +75,7 @@ const Team: React.FC = () => {
       name: 'Nisa Ecrin Korkmaz',
       departmentKey: 'prPresident',
       period: '28',
-      email: '',
+      email: 'nisaecrk253@gmail.com',
     },
     {
       name: 'Mehmet Kamil İman',

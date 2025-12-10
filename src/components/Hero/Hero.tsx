@@ -17,7 +17,7 @@ import {
 import { useTranslation } from 'react-i18next';
 
 const Hero: React.FC = () => {
-  const { t } = useTranslation('translation');
+  const { t } = useTranslation();
   const theme = useTheme();
   const isMobile = useMediaQuery(theme.breakpoints.down('md'));
 
